@@ -1,0 +1,191 @@
+body{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Indie Flower' ;
+}
+.top-container{
+	padding-top: 80px;
+	background-color: #eaf6f6;
+	position: relative;
+}
+#big-head{
+	width: 70%;
+	margin: auto;
+}
+#big-name{
+	width: 98%;
+	margin: 20px auto 0px;
+	position: relative;
+}
+#big-job{
+	width: 98%;
+	height: 100px;
+	margin:50px auto 20px;
+	font-size: 3em;
+	color: #3e92a3;
+	position: relative;
+}
+.top-cloud{
+	width: 20%;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.my-name{
+	font-size: 3em;
+	padding: 20px 0px 20px;
+	color: #3e92a3;
+	position: relative;
+}
+.my-job{
+	padding: 20px 0px 20px;
+	font-size: 0.5em;
+	color: #3e92a3;
+	position: relative;
+}
+.bottom-cloud{
+	width: 25%;
+	position: absolute;
+	left:5%;
+	top:10px;
+}
+.mountain{
+	height: 350px;
+	padding: 35px;
+	border-radius: 
+}
+.Hello{
+	color: #8ac6d1;
+	font-size: 4em;
+	margin-bottom: 1em;
+}
+.hello-chill{
+	width: 30%;
+	margin: auto;
+	line-height: 1em;
+	color: #40514e;
+	font-size: 1.4em;;
+}
+.tym{
+	color: red;
+}
+.dog-face{
+	width: 20%;
+	border-radius:50%;
+	margin-top: 50px;
+}
+.horizon{
+	width: 4%;
+	margin: 100px auto 100px;
+	border:5px dotted #79bac1 ;
+	border-bottom: none;
+}
+.my-skill-text{
+	font-size: 2.2em;
+	color:#8ac6d1;
+}
+.camera-gift{
+	width: 30%;
+	float: left;
+	margin-right: 20px;
+}
+
+.food-gift{
+	width: 30%;
+	float: right;
+	margin-left: 20px;
+}
+.photo-skill{
+	width: 500px;
+	margin: 120px auto 120px;
+	text-align: left;
+	line-height: 2;
+}
+.photograph{
+	color: #2a7886;
+	font-size: 1.6em;
+}
+.p-photo{
+	line-height: 1em;
+	color: #40514e;
+	font-size: 1.1em;
+}
+
+.eat{
+	color: #2a7886;
+	font-size: 1.6em;
+}
+.p-eat{
+	line-height: 1em;
+	color: #40514e;
+	font-size: 1.1em;
+}
+
+.eat-skill{
+	width: 500px;
+	margin: 0px auto 120px;
+	text-align: left;
+	line-height: 2;
+}
+.bottom-container{
+	margin-top: 100px;
+	padding: 20px 0px;
+	background-color: #66bfbf;
+
+}
+.get-in-touch{
+	color: #8ac6d1;
+	font-size: 2.5em;
+}
+.p-get-in-touch{
+	color: #2a7886;
+	font-size: 1.5em;
+}
+.p-get{
+	font-size:1.4em;
+}
+.myButton {
+	background-color:#13b0b0;
+	border-radius:23px;
+	border:0px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:20px 28px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+	background-color:#62cccc;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.facebook-link{
+	color: #11999e;
+	margin: 0px 20px;
+}
+.instagram-link{
+	color: #11999e; 
+}
+.youtube-link{
+	color: #11999e;
+}
+.last{
+	text-decoration:underline;
+}
+.instagram-link:hover{
+	color: #e4f9f5;
+}
+.facebook-link:hover{
+	color: #e4f9f5;
+}
+.youtube-link:hover{
+	color: #e4f9f5;
+}
+.p-last{
+	color: #a5dee5;
+}
